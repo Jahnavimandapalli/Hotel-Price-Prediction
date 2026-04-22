@@ -14,8 +14,11 @@ Hotel Price Prediction is a machine learning project that predicts hotel room pr
 -> Performance evaluation and prediction analysis
 ## Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
 ## Execution
 Run the project in Google Colab
