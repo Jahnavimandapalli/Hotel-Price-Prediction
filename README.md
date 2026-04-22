@@ -20,10 +20,10 @@ Pandas
 NumPy
 
 Scikit-learn
-## Execution
-Run the project in Google Colab
-Open eda.ipynb for analysis
-Open model.ipynb for training and testing the model
+
+## Run on Colab
+[EDA Notebook](https://colab.research.google.com/drive/12z3coTMG44Zw6aw3OKx9eypZ9nH53Brr)  
+[Model Notebook](https://colab.research.google.com/drive/1MwkFknGfw91bvhtfqwgiFDbywbhMUgUL)
 
 
 
